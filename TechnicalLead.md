@@ -351,3 +351,16 @@
 - Use resource wisely
 - minimizing context switching between tasks
 - Identify bottlenecks and improve them
+
+## Time Management
+
+##### Issues
+
+- not managing time effectively
+- wasting time on non-productive activities
+
+##### Solutions
+
+- Prioritize tasks based on urgency and importance
+- Minimize distractions during working hours
+- Set realistic deadlines
