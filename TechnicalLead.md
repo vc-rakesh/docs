@@ -2,6 +2,29 @@
 
 ---
 
+### Project / Team goals and objectives
+
+##### Issues
+
+- poorly defined project goals and team goals
+- no clear planning to achieve goals
+- lack of communication
+- unclear roles and responsibilities within the team
+- inability to work together effectively
+- individualistic approach to problem solving
+- lack of trust among team members
+- difficulty with delegation
+- lack of understanding of each other's skills, strengths, weaknesses, interests, values, etc.
+
+##### Solutions
+
+- clearly define project goals and team goals
+- develop a detailed plan for achieving these goals
+- improve communication between team members
+- establish clear roles and responsibilities within the team
+- promote an effective working style that encourages collaboration and cooperation
+- foster an environment where individuals feel comfortable sharing their ideas and opinions without fear of criticism or judgment
+
 ### Continuous learning
 
 ##### Issues
